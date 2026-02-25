@@ -1,8 +1,7 @@
 {
   "SERVER_001": {
     "status": "active",
-    "command": "none",
+    "command": "shutdown",
     "message": "",
     "version": "1.0"
   }
-}
