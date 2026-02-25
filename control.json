@@ -1,6 +1,6 @@
 {
   "SERVER_001": {
-    "status": "revoked",
+    "status": "active",
     "command": "none",
     "message": "",
     "version": "1.0"
